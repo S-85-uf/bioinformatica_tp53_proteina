@@ -4,8 +4,8 @@ Este repositorio contiene el código en R para traducir un fragmento del gen hum
 
 ## Archivos
 
-- `clase2_traduccion_tp53.R`: script de análisis
-- `TP53_proteina.fasta`: proteína generada desde la secuencia de ADN
+- `Traducción genética_ADN_Proteína con R y Biostrings.R`: script de análisis
+- `TP53.fasta`: proteína generada desde la secuencia de ADN
 
 ## Herramientas utilizadas
 
